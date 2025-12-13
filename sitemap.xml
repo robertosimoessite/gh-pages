@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://robertosimoes.com.br/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://robertosimoes.com.br/</loc>
+</url>
+<url>
+<loc>https://robertosimoes.com.br/contato/</loc>
+<lastmod>2025-12-13T14:57:57+00:00</lastmod>
+</url>
+<url>
+<loc>https://robertosimoes.com.br/politica-de-privacidade/</loc>
+<lastmod>2025-12-13T14:58:09+00:00</lastmod>
+</url>
+<url>
+<loc>https://robertosimoes.com.br/robo-finaliza-construcao-de-residencia-em-apenas-2-dias-e-transforma-o-mercado-da-construcao-civil/</loc>
+<lastmod>2025-12-12T00:50:00+00:00</lastmod>
+<image:image>
+<image:loc>https://robertosimoes.com.br/media/posts/89/Robo-finaliza-construcao-de-residencia-em-apenas-2-dias-e.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://robertosimoes.com.br/sobre-nos/</loc>
+<lastmod>2025-12-13T14:58:20+00:00</lastmod>
+</url>
+<url>
+<loc>https://robertosimoes.com.br/termos-de-uso/</loc>
+<lastmod>2025-12-13T14:58:31+00:00</lastmod>
+</url>
+</urlset>
